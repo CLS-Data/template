@@ -27,7 +27,7 @@
 ## Syntax and data availability [tell the user where the syntax is + how source data should be **set up** to run it]
 
 - *Source data:* Download raw Next Steps files from the **UK Data Service** and place them in `data/raw/`.
-- *Syntax:* `01_build_dataset.R` reads those files and produces `data/derived/next_steps.parquet`.
+- *Syntax:* `01_build_dataset.R` reads those files and produces `data/derived/next_steps.parquet` *(note: keep the code well-commented and use **relative** file paths—e.g., `here::here("data", "raw", ...)` in R, or `$raw` / `$derived` globals in Stata).*
 - *Derived dataset:* Available to download from the [**UK Data Service**](https://beta.ukdataservice.ac.uk).
 
 ---
