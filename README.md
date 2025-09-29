@@ -1,4 +1,4 @@
-# Title [e.g., Next Steps Longitudinal Derived Variable dataset]
+# Title [e.g., Next Steps Longitudinal Derived Variable dataset - not repository names should be short and descriptive, e.g., mcs_x (where x is the type of variables covered in a single word)]
 
 [Centre for Longitudinal Studies](https://cls.ucl.ac.uk/)
 
